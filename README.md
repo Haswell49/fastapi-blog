@@ -1,0 +1,1 @@
+Blog service written in Python (FastAPI, SQLAlchemy, Pydantic)
